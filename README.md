@@ -2,21 +2,19 @@
 
 A structural framework for analyzing optimization ecosystems.
 
-This repository presents a conceptual taxonomy of feedback systems operating under varying degrees of self-reference and variance coupling. 
+This repository presents a conceptual taxonomy of feedback systems operating under varying degrees of self-reference and variance coupling. No empirical validation is included here.
 
 ---
 
-## Structure
-- **ABSTRACT.md** — High-level summary of the protocol.
-- **DEFINITIONS.md** — Strict structural terminology.
-- **core/** — Detailed conceptual taxonomy.
-- **models/** — Minimal formal models (Exploration-Collapse).
-- **FAILURE_MODES.md** — Analysis of system limits and points of collapse.
-- **RELATED_WORK.md** — Academic alignment with current AI research.
+## Repository Structure
+- **ABSTRACT.md** — High-level conceptual summary.
+- **DEFINITIONS.md** — Formal structural terminology and (S, V, P) tuples.
+- **RELATED_WORK.md** — Alignment with current AI research (Model Collapse, GANs).
+- **FAILURE_MODES.md** — Identification of system rupture points.
+- **ORIGIN_AND_METHOD.md** — Neutral development methodology.
+- **core/** — Detailed species taxonomy.
 
 ---
 
-## Scope
-- Does not assert the inevitability of collapse.
-- Does not propose governance or normative prescriptions.
-- Provides a structural lens for examining optimization trajectories.
+## Scope and Intent
+This framework provides a structural lens for examining optimization trajectories. It does not assert the inevitability of collapse nor propose specific governance prescriptions.
