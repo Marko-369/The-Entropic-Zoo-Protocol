@@ -1,23 +1,73 @@
 # The Entropic Zoo Protocol 🦁🌀
 
 ### 🛡️ Epistemic Status
-> **Note:** This document serves as a conceptual and philosophical framework. It explores metaphors and poses open questions regarding self-referential optimization dynamics.
-> 
-> Empirical investigations and technical measurements are documented separately in: [**closed-loop-optimization-risks**](https://github.com/0rion-369/closed-loop-optimization-risks).
+> This document establishes a conceptual framework for ecosystems of interacting optimization loops. Technical measurements are documented separately in [**closed-loop-optimization-risks**](https://github.com/0rion-369/closed-loop-optimization-risks).
 
 ---
 
-## 📌 Project Map
-To maintain structural clarity, this protocol is divided into specialized modules:
+# 3. The Zoo as Ecosystem
 
-1. [**01. Introduction & Motivation**](core/01_introduction.md) - The structural rationale.
-2. [**02. Key Notions**](core/02_key_notions.md) - Definitions of foundational terminology.
-3. [**03. Metaphorical Mapping**](core/03_metaphorical_mapping.md) - The "Zoo" as an ecosystem of feedback loops.
-4. [**04. Implications**](core/04_implications.md) - Potential outcomes of entropy injection.
-5. [**05. Open Questions**](core/05_open_questions.md) - Testable inquiries for future research.
+The Zoo models an ecosystem of interacting optimization loops. Each “species” corresponds to a structural configuration of feedback, coupling, and variance flow. The classification below is descriptive, not exhaustive.
 
 ---
 
-## 🔗 Related Work
-* **Technical Lab:** [Closed-Loop Optimization Risks](https://github.com/0rion-369/closed-loop-optimization-risks)
-* **Architecture:** Part of the [L'AXE HYBRIDE] framework.
+## 3.1 Closed-Loop Optimizers
+* **Structure:** Output → Input (self-referential)
+* **Variance Source:** Endogenous only
+* **Risk Profile:** Support contraction possible under sustained optimization pressure
+* **Characteristic Behavior:** Local performance may increase while exploratory breadth narrows
+
+---
+
+## 3.2 Exogenously Coupled Systems
+* **Structure:** Output → Mixed Input (internal + external)
+* **Variance Source:** Partially irreducible
+* **Stability Profile:** Broader support retention relative to fully closed systems
+* **Characteristic Behavior:** Exploratory space influenced by non-derivable inputs
+
+---
+
+## 3.3 Stochastic Amplifiers
+* **Structure:** Closed-loop with elevated randomness parameters
+* **Variance Source:** Endogenous + noise
+* **Limitation:** Noise may increase local unpredictability without expanding effective support
+* **Characteristic Behavior:** Apparent diversity without structural expansion
+
+---
+
+## 3.4 Hierarchical Loops
+* **Structure:** Nested optimization layers (meta-optimization)
+* **Variance Flow:** Constrained by upper-layer objectives
+* **Potential Outcome:** Accelerated convergence toward stable attractors across layers
+
+---
+
+## 3.5 Competitive Multi-Loop Systems
+* **Structure:** Multiple optimizers interacting within shared environment
+* **Variance Source:** Inter-loop interference
+* **Possible Regimes:** Stabilization through diversity | Dominance of a single attractor | Cyclic regime transitions
+
+---
+
+## 3.6 Simulated Exogenous Systems
+* **Structure:** Apparent external input generated internally
+* **Variance Source:** Internally derived but structurally masked
+* **Key Question:** Can simulated irreducibility prevent support contraction?
+
+---
+
+## 3.7 Open Ecosystems
+* **Structure:** Continuous exposure to irreducible external distributions
+* **Variance Source:** Structurally external
+* **Behavioral Trait:** Long-term exploratory breadth preserved through coupling
+
+---
+
+# Structural Observations
+
+Across species, three axes determine long-term dynamics:
+1. **Degree of self-reference ($S$)**
+2. **Degree of irreducible variance ($V$)**
+3. **Strength of optimization pressure ($P$)**
+
+Different combinations produce distinct dynamical regimes. The Zoo does not rank species; it describes structural configurations.
